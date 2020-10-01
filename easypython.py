@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
-import MySQLdb
-import sys
+import MySQLdb                # here we import Mysqlbd 
+import sys                    # we import sys
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
